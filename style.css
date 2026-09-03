@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    background: #4a708f;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+header {
+    background: #0e2c44;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+}
+a{
+    color: white;
+}
+button{
+    background-color: black;
+    padding: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    color: white;
+    text-align: center;
+}
+label {
+      font-family: "Updock", cursive;
+
+}
+.pesquisar{
+    background-color: rgb(161, 152, 152);
+    padding: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    color: white;
+    text-align: center;
+}
